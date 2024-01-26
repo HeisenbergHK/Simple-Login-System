@@ -6,4 +6,4 @@ just run the code!
 (You will figure it out.)
 
 ## Author
-I, Hassan Kalantari wrote this code and developed the program by myself just for fun.
+Hassan Kalantari
